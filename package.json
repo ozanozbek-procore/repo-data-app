@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ozanozbek-procore/repo-data-app/issues"
   },
-  "homepage": "https://github.com/ozanozbek-procore/repo-data-app#readme"
+  "homepage": "https://github.com/ozanozbek-procore/repo-data-app#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
 }
