@@ -1,0 +1,20 @@
+{
+  "name": "repo-data-app",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "",
+  "main": "source/app.js",
+  "scripts": {
+    "start": "node source/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozanozbek-procore/repo-data-app.git"
+  },
+  "author": "Ozan Ozbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozanozbek-procore/repo-data-app/issues"
+  },
+  "homepage": "https://github.com/ozanozbek-procore/repo-data-app#readme"
+}
