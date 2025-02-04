@@ -9,8 +9,8 @@ This NodeJS application fetches PR data from multiple repositories based on cust
 ## Usage
 
 - Clone this repository.
-- Install dependencies by `npm i` or `yarn`.
+- Install dependencies by `npm i`.
 - Create a `.env` file on project root and write your own github user token.
 - Update `configuration.json` if needed.
-- Run the app by `npm start` or `yarn run start`.
+- Run the app by `npm start`.
 - A new data file will be created in `/data` directory.
